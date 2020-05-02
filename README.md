@@ -1,6 +1,6 @@
 # flutterconvid19
 
-A new Flutter application.
+A new Flutter application to track live corona virus poll and news.
 
 ## Getting Started
 
