@@ -12,17 +12,3 @@ Download [apk](https://drive.google.com/open?id=1p3yQ3LhhPqx2NL7PndfeiS-I4eo-RQm
 ![Screenshot_20200502-233729](https://user-images.githubusercontent.com/37204706/80872275-8d4ce580-8cce-11ea-9dd1-92caa99639f5.jpg)
 
 ### Looking for websites [here](https://github.com/kushankurxd/Kovid-19)
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
